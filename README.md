@@ -1,12 +1,13 @@
-<div style="display: flex; align-items: center;">
-  <img src="./github.jpg" alt="Image" style="width: 50%; margin-right: 20px;">
-  <pre style="white-space: pre-wrap; margin: 0;">
-      /\        
-     /  \       
-    /    \      
-   /      \     
-  /   ,,   \    
+![](./github.jpg)
+
+# I use arch btw
+```             
+      /\        ║  kernel   : Linux 6.12.4-arch1-1 ║    
+     /  \       ║  WM       : awesome (X11)        ║    
+    /    \      ║  distro   : Arch Linux x86_64    ║   
+   /      \     ║  term     : alacritty 0.14.0     ║   
+  /   ,,   \    ║  shell    : bash 5.2.37          ║    
  /   |  |   \   
 /_-''    ''-_\  
-  </pre>
-</div>
+```
+
