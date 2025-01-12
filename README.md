@@ -1,3 +1,8 @@
+
+https://indecenttulip.github.io/resume/
+
+![](./resume.png)
+
 ![](./github.jpg)
 
 # I use arch btw
